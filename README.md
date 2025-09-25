@@ -3,7 +3,7 @@
 一个基于 **Python + PyQt5** 的图形化 RDP 扫描器。
 支持批量扫描指定网段，检测主机的 **Ping** 状态、**RDP(3389)** 端口是否开放，并获取 **主机名** 和 **MAC 地址**。
 
-
+![System Screenshot](https://github.com/BrepMaster/RDP-Scanner/raw/main/1.png)
 打包好的程序
 链接: https://pan.baidu.com/s/1BPzPYWP3RpTOsNezmAEzKw?pwd=312q 提取码: 312q
 ## ✨ 功能特性
